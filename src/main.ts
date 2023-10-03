@@ -9,7 +9,7 @@ async function start() {
 
 	const config = new DocumentBuilder()
 		.setTitle('Online store')
-		.setDescription('Документация REST API')
+		.setDescription('Документация REST API,')
 		.setVersion('1.0.0')
 		.addTag('API')
 		.build()
